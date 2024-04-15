@@ -1,0 +1,63 @@
+/**
+    * @name DarkerTheme
+    * @version 1.0
+    * @description DarkerTheme
+    * @author ggrolton123
+    * @source https://github.com/DiscordThemeTeam/DarkerTheme
+    * @website https://github.com/DiscordThemeTeam
+**/
+
+@import url('https://capnkitten.github.io/BetterDiscord/Themes/Material-Discord/css/source.css');
+@import url('https://discordstyles.github.io/HorizontalServerList/dist/HorizontalServerList.css');
+
+:root {
+  --accent-hue: 224;
+  --accent-saturation: 16%;
+  --accent-lightness: 37%;
+  --accent-text-color: #FFFFFF;
+  --avatar-radius: 50%;
+  --undefined: 0;
+  --message-radius: 20px;
+  --message-padding-top: 0px;
+  --message-padding-side: 10px;
+  --undefined: 0;
+  --media-radius: 6px;
+  --undefined: 0;
+  --card-radius: 8px;
+  --card-radius-big: 9px;
+  --popout-radius: 4px;
+  --popout-radius-big: 10px;
+  --HSL-server-icon-size: 32px;
+  --HSL-server-spacing: 7px;
+}
+
+/* Any custom CSS below here */
+
+
+@import url('https://capnkitten.github.io/BetterDiscord/Themes/Material-Discord/css/source.css');
+@import url('https://discordstyles.github.io/HorizontalServerList/dist/HorizontalServerList.css');
+
+:root {
+  --accent-hue: 224;
+  --accent-saturation: 16%;
+  --accent-lightness: 37%;
+  --accent-text-color: #FFFFFF;
+  --avatar-radius: 50%;
+  --undefined: 0;
+  --message-radius: 20px;
+  --message-padding-top: 0px;
+  --message-padding-side: 10px;
+  --undefined: 0;
+  --media-radius: 6px;
+  --undefined: 0;
+  --card-radius: 8px;
+  --card-radius-big: 9px;
+  --popout-radius: 4px;
+  --popout-radius-big: 10px;
+  --HSL-server-icon-size: 38px;
+  --HSL-server-spacing: 8px;
+}
+
+/* Any custom CSS below here */
+
+
